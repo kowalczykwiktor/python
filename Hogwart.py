@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+print("Jak masz na imię?")
+imie = input()
+print("Cześć", imie)
+print("Ile masz lat?")
+wiek = input()
+print("To całkiem sporo", imie, ":)")
+print("Z jakiego peronu planujesz dostać się do Hogwartu?")
+peron = input()
+print("W wieku", wiek,"lat chyba nie ma sensu już jechać do Hogwartu z peronu",peron,", jak myślisz?")
