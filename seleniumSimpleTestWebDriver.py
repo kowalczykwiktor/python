@@ -2,4 +2,4 @@
 from selenium import webdriver
 
 browser = webdriver.Firefox()
-browser.get('')
+browser.get('example.com')
