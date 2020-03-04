@@ -1,4 +1,5 @@
 # pip3 install selenium
+# pip3 install webdriver-manager
 from selenium import webdriver
 from webdriver_manager.firefox import GeckoDriverManager
 
