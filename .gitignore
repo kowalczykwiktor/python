@@ -1,2 +1,5 @@
 # IGNORE extensions:
 *.log
+
+# IGNORE directories:
+Crypto/
