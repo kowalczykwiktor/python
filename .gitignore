@@ -3,3 +3,4 @@
 
 # IGNORE directories:
 Crypto/
+.DS_Store
